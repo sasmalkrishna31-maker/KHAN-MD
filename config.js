@@ -5,7 +5,7 @@ function convertToBool(text, fault = 'true') {
     return text === fault ? true : false;
 }
 module.exports = {
-SESSION_ID: process.env.SESSION_ID || "IK~lfsmUDBS#h3naTXXK9oz4qunvmxrsMoAANkjxQBwTXUG2ENJMUb8",
+SESSION_ID: process.env.SESSION_ID || "IK~RW0FxbJA#S_qr72sgIJ10sXzGBs7X_ZBHCD9QxXyMQaDuV6JAljE",
 // add your Session Id
 AUTO_STATUS_SEEN: process.env.AUTO_STATUS_SEEN || "true",
 // make true or false status auto seen
@@ -31,7 +31,7 @@ MENU_IMAGE_URL: process.env.MENU_IMAGE_URL || "https://files.catbox.moe/7zfdcq.j
 // add custom menu and mention reply image url
 PREFIX: process.env.PREFIX || ".",
 // add your prifix for bot   
-BOT_NAME: process.env.BOT_NAME || "DARK-SOUMYA V19",
+BOT_NAME: process.env.BOT_NAME || "DARK-SOUMYA MD",
 // add bot namw here for menu
 STICKER_NAME: process.env.STICKER_NAME || "DARK SOUMYA",
 // type sticker pack name 
@@ -47,7 +47,7 @@ OWNER_NAME: process.env.OWNER_NAME || "Ｄａｒｋ－𓆩♔𓆪𝘴 𝘰 𝘶 
 // add bot owner name
 DESCRIPTION: process.env.DESCRIPTION || "> *© ᴘᴏᴡᴇʀᴇᴅ ʙʏ DARK__SOUMYA*",
 // add bot owner name    
-ALIVE_IMG: process.env.ALIVE_IMG || "https://files.catbox.moe/149k8x.jpg",
+ALIVE_IMG: process.env.ALIVE_IMG || "https://files.catbox.moe/6dxni5.jpg",
 // add img for alive msg
 LIVE_MSG: process.env.LIVE_MSG || "> Zinda Hun Yar *DARK-SOUMYQ*⚡",
 // add alive msg here 
