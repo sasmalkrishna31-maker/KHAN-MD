@@ -47,7 +47,7 @@
 ---
 
 <div align="center">
-  <img src="https://cdn.ironman.my.id/i/9zd4if.jpg" width="300" style="border-radius: 20px; box-shadow: 0 0 20px #00ffff;"/>
+  <img src="https://raw.githubusercontent.com/JawadTechXD/JawadTechXD/refs/heads/main/khanmd.jpg" width="300" style="border-radius: 20px; box-shadow: 0 0 20px #00ffff;"/>
 </div>
 
 ---
@@ -106,7 +106,7 @@
 <div align="center">
   <table>
     <tr>
-      <td><a href="https://dashboard.heroku.com/new?template=https://github.com/JawadTechXD/KHAN-MDX" target="_blank"><img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white&labelColor=000000&color=00ffff"/></a></td>
+      <td><a href="https://dashboard.heroku.com/new?template=https://github.com/JawadTechXD/KHANX-MD" target="_blank"><img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white&labelColor=000000&color=00ffff"/></a></td>
       <td><a href="https://talkdrove.com" target="_blank"><img src="https://img.shields.io/badge/TalkDrove-6971FF?style=for-the-badge&logo=github&logoColor=white&labelColor=000000"/></a></td>
     </tr>
     <tr>
@@ -136,10 +136,26 @@
   </tr>
 </table>
 
+## 🤖 Deploy SIGMA-MD Mini
+
+> Simple pairing process - Just connect your WhatsApp and start using the bot instantly!
+
 <table align="center">
   <tr>
     <td>
-      <a href="https://github.com/JawadTechXD/KHAN-MDX" target="_blank">
+      <a href="https://sigma-mini.vercel.app" target="_blank">
+        <img alt="Deploy Sigma MD Mini" src="https://img.shields.io/badge/Deploy%20Sigma%20MD%20Mini-FF8C00?style=for-the-badge&logo=rocket&logoColor=white"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
+> 💡 **Quick Start**: Visit the link above, pair your number, and the bot will be ready to use!
+
+<table align="center">
+  <tr>
+    <td>
+      <a href="https://github.com/JawadTechXD/KHANX-MD" target="_blank">
         <img alt="View Workflow Codes" src="https://img.shields.io/badge/View-Workflow%20Codes-FF0076?style=for-the-badge&logo=gitlab&logoColor=white"/>
       </a>
     </td>
@@ -149,7 +165,7 @@
 <table align="center">
   <tr>
     <td>
-      <a href="https://github.com/JawadTechXD/KHAN-MDX" target="_blank">
+      <a href="https://github.com/JawadTechXD/KHANX-MD" target="_blank">
         <img alt="Deploy From New Repo" src="https://img.shields.io/badge/Deploy-New%20Version-4CAF50?style=for-the-badge&logo=vercel&logoColor=white"/>
       </a>
     </td>
@@ -159,7 +175,7 @@
 <table align="center">
   <tr>
     <td>
-      <a href="https://github.com/JawadTechXD/KHAN-MDX/archive/refs/heads/main.zip" target="_blank">
+      <a href="https://github.com/JawadTechXD/KHANX-MD/archive/refs/heads/main.zip" target="_blank">
         <img alt="Panel Zip File" src="https://img.shields.io/badge/View-Panel%20Codes-FF0000?style=for-the-badge&logo=github&logoColor=white"/>
       </a>
     </td>
